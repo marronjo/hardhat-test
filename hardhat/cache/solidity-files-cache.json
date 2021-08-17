@@ -1,7 +1,41 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\joema\\Desktop\\subsocial-matic\\hardhat\\contracts\\Token.sol": {
+    "C:\\Users\\joema\\Desktop\\hardhat-test\\hardhat\\contracts\\SpaceExample.sol": {
+      "lastModificationDate": 1629236050037,
+      "contentHash": "a96c26f5a0b50c51ba6f5723a184d0cc",
+      "sourceName": "contracts/SpaceExample.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.7.3"
+      ],
+      "artifacts": [
+        "SpaceExample"
+      ]
+    },
+    "C:\\Users\\joema\\Desktop\\hardhat-test\\hardhat\\contracts\\Token.sol": {
       "lastModificationDate": 1629209621511,
       "contentHash": "7a0c58c37cb5ca6bfc8aad90e2830f38",
       "sourceName": "contracts/Token.sol",
@@ -37,7 +71,7 @@
         "Token"
       ]
     },
-    "C:\\Users\\joema\\Desktop\\subsocial-matic\\hardhat\\node_modules\\hardhat\\console.sol": {
+    "C:\\Users\\joema\\Desktop\\hardhat-test\\hardhat\\node_modules\\hardhat\\console.sol": {
       "lastModificationDate": 1629204530125,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
