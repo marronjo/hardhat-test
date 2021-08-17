@@ -5,8 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/marronjo/hardhat-test",
   "author": "marronjo",
-  "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
