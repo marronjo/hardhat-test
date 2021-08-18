@@ -4,7 +4,7 @@
   "description": "getting used to hardhat and yarn dev environment, contracts and testing",
   "main": "index.js",
   "repository": "https://github.com/marronjo/hardhat-test",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "author": "marronjo",
   "private": false,
   "dependencies": {
