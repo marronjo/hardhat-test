@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\joema\\Desktop\\hardhat-test\\hardhat\\contracts\\SpaceExample.sol": {
-      "lastModificationDate": 1629236050037,
-      "contentHash": "a96c26f5a0b50c51ba6f5723a184d0cc",
+      "lastModificationDate": 1629286275935,
+      "contentHash": "cd3a7816a5a7ec21180b0c3605ea7ece",
       "sourceName": "contracts/SpaceExample.sol",
       "solcConfig": {
         "version": "0.7.3",

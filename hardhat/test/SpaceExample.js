@@ -15,7 +15,7 @@ describe('Space Contract', () => {
             await space.connect(owner).createSpace("My First Space", 2);
             const spaceOwner = await space.getOwner(0);
             //console.log(spaceOwner);
-            expect(owner.address).to.equal(spaceOwner.from);
+            expect(owner.address).to.equal(spaceOwner);
         });
     });
 });
